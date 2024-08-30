@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T17:11:43 AST" name="Default suite" finished-at="2024-08-23T17:12:08 AST" duration-ms="24660">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T17:11:43 AST" name="Default test" finished-at="2024-08-23T17:12:08 AST" duration-ms="24660">
+      <class name="flipkartproject_pkg1.verify_menspage">
+        <test-method is-config="true" signature="page_launching()[pri:0, instance:flipkartproject_pkg1.verify_menspage@640f11a1]" started-at="2024-08-23T17:11:43 AST" name="page_launching" finished-at="2024-08-23T17:11:48 AST" duration-ms="4773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page_launching -->
+        <test-method signature="firstproduct_menspage()[pri:0, instance:flipkartproject_pkg1.verify_menspage@640f11a1]" started-at="2024-08-23T17:11:48 AST" name="firstproduct_menspage" finished-at="2024-08-23T17:12:08 AST" duration-ms="19802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstproduct_menspage -->
+      </class> <!-- flipkartproject_pkg1.verify_menspage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
